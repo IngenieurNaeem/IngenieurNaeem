@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence and Data Analytics 
 - 🌱 I’m currently learning ML/AI and Data Analytics
 - 💞️ I’m looking to collaborate on ML/AI projects
-- 📫 How to reach me ...
+- 📫 How to reach me: email at engr.naeem@hotmail.com
 
 <!---
 IngenieurNaeem/IngenieurNaeem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
